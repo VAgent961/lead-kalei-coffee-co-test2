@@ -1,0 +1,29 @@
+{
+  "siteName": "Kalei Coffee Co.",
+  "description": "Discover Kalei Coffee Co., a specialty micro-roastery nestled in a historic Lebanese house in the heart of Mar Mikhael, Beirut.",
+  "lang": "en",
+  "colors": {
+    "primary": "#4A3728",
+    "secondary": "#D4A373",
+    "accent": "#D4A373",
+    "background": "#FDFBF7",
+    "surface": "#FFFFFF",
+    "ink": "#2D2926",
+    "muted": "#A8A29E",
+    "dark": "#2D2926"
+  },
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Inter"
+  },
+  "extend": {
+    "colors": {},
+    "fontFamily": {},
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "",
+  "iconFont": ""
+}
